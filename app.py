@@ -3,9 +3,7 @@ import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
 import pickle
-from sklearn.decomposition import PCA
 import sklearn
-import uuid
 
 print(sklearn.__version__)
 
